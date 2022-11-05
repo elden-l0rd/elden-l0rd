@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello there 👋
 
 <!--
 **elden-l0rd/elden-l0rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
