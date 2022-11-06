@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Sire
 - ⚡ Fun fact: I love poems
 
-<p></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<!--img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."-->
