@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: "*When the dawn alights the dagger's tip, three Kings will reveal the way...*"
 - 😄 Pronouns: Sire
 - ⚡ Fun fact: I love poems
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
