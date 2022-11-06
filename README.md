@@ -31,9 +31,9 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 0 Private Repositories  
  > 
 **I Mostly Code in C++** 
 
@@ -49,7 +49,7 @@ Java                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/elden-l0rd/elden-l0rd/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2022 04:59:43 UTC
+ Last Updated on 06/11/2022 05:04:54 UTC
 <!--END_SECTION:waka-->
 
 <!--img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."-->
