@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Sire
 - ⚡ Fun fact: I love poems
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+<p></p>
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
