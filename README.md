@@ -59,11 +59,6 @@ Mac                      12 mins             ███████████�
 
 ```
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/elden-l0rd/elden-l0rd/main/charts/bar_graph.png) 
-
-
  Last Updated on 07/11/2022 12:42:41 UTC
 <!--END_SECTION:waka-->
 
