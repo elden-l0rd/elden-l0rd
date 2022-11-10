@@ -20,14 +20,53 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-177-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24%20Thousand%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 09/11/2022 18:50:00 UTC
+```text
+🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.34% 
+🌆 Daytime    49 commits     ████████░░░░░░░░░░░░░░░░░   34.51% 
+🌃 Evening    40 commits     ███████░░░░░░░░░░░░░░░░░░   28.17% 
+🌙 Night      44 commits     ███████░░░░░░░░░░░░░░░░░░   30.99%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       24 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.9% 
+Tuesday      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.23% 
+Wednesday    29 commits     █████░░░░░░░░░░░░░░░░░░░░   20.42% 
+Thursday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
+Friday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+Saturday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
+Sunday       33 commits     █████░░░░░░░░░░░░░░░░░░░░   23.24%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     1 hr 45 mins        ██████████████████░░░░░░░   71.71% 
+C++                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81% 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47%
+
+🔥 Editors: 
+VS Code                  2 hrs 26 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      2 hrs 26 mins       █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 10/11/2022 15:02:17 UTC
 <!--END_SECTION:waka-->
 
 <!--img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."-->
