@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-182-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29%20Thousand%20lines%20of%20code-blue)
 
@@ -53,20 +53,20 @@ Sunday       35 commits     ██████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     14 hrs 26 mins      ████████████████████████░   98.94% 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+Java                     11 hrs 32 mins      ████████████████████████░   98.8% 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 🔥 Editors: 
-VS Code                  14 hrs 35 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 40 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 35 mins      █████████████████████████   100.0%
+Mac                      11 hrs 40 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/11/2022 18:48:32 UTC
+ Last Updated on 19/11/2022 18:45:16 UTC
 <!--END_SECTION:waka-->
 
 <!--img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up."-->
